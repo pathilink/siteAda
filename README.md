@@ -5,4 +5,4 @@ See the [website](https://pathilink.github.io/siteAda/).
 
 ## :memo: Licença
 
-Este projeto está sob a licença [MIT](./LICENSE).
+This project is under license [MIT](./LICENSE).
